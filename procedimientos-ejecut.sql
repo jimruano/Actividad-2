@@ -1,0 +1,15 @@
+CALL sp_replace();
+CALL sp_reverse();
+CALL sp_right();
+CALL sp_space();
+CALL sp_substr();
+CALL sp_substring();
+CALL sp_upper();
+CALL sp_concat();
+CALL sp_field();
+CALL sp_format();
+CALL sp_lcase();
+CALL sp_left();
+CALL sp_length();
+CALL sp_lower();
+CALL sp_repeat();
